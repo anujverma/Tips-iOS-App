@@ -10,3 +10,4 @@ Which required and optional stories have you completed?
 - Built simple Tips app.
 - Added designs, animations, icons, launch image, split amounts.
 
+![alt tag](https://github.com/anujverma/Tips-iOS-App/blob/master/Tips.gif)
