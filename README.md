@@ -1,7 +1,7 @@
 Tips-iOS-App
 ============
 
-Simple iOS app to calculate tips!
+Simple iOS app to calculate tips! To install please download and run in Xcode. Built in 6.1.
 
 How many hours did it take to complete?
 - Took about three hours.
